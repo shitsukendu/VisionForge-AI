@@ -9,10 +9,10 @@ VisionForge AI is a Streamlit-based AI application that combines **text-to-image
 ## 🚀 Live Demo
 
 🌐 **Streamlit Cloud:**  
-`https://visionforge-ai-zfiqtrdyz6o9oaavsr89rz.streamlit.app/`
+https://visionforge-ai-zfiqtrdyz6o9oaavsr89rz.streamlit.app/
 
 💻 **GitHub Repository:**  
-`https://shitsukendu.github.io/VisionForge-AI/`
+https://shitsukendu.github.io/VisionForge-AI/
 
 > Replace the two placeholders above with your actual links.
 
@@ -282,7 +282,7 @@ VisionForge-AI/
 
 B.Tech CSE — AI/ML Specialization
 
-🔗 GitHub: `https://github.com/shitsukendu`
+🔗 GitHub: https://github.com/shitsukendu
 
 ---
 
